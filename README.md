@@ -7,4 +7,4 @@ Modules that I have used:
 ```os: Comes pre-installed with python```  
 ```openai: pip install openai```  
 ```dotenv: pip install python-dotenv```  
-```[panel: pip install panel](https://pypi.org/project/panel/)```  
+```[panel: pip install panel]```(https://pypi.org/project/panel/)  
